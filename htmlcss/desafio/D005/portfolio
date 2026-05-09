@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfólio</title>
+</head>
+<body>
+    <h1>Ashley Aleixo</h1>
+    <p><strong>Desenvolvedora Web</strong></p>
+   <img src="profile image.png" alt="Foto de perfil de Ashley Aleixo" width="200">
+    <p>Olá! Sou uma desenvolvedora web com experiência em <strong>HTML, CSS e JavaScript </strong>e uma amante da programação e suas tecnologias.</p>
+    <h2>Sobre Mim</h2>
+    <p>Tenho paixão por criar soluções inovadoras e eficientes para desafios de desenvolvimento web. Com um background sólido em design e desenvolvimento, estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades para entregar projetos de alta qualidade.</p>
+    <h2>Formação</h2>
+    <ul type="square">
+        <li><strong>Analise e Desenvolvimento de Sistemas</strong> - Puc Minas (2026-2028)</li>
+        <li><strong>Tecnico em Enfermagem</strong> - Centro de Formação em Enfermagem de Minas Gerais (2022-2024)</li>
+    </ul>
+    <h2>Minhas Redes sociais</h2>
+    <ul type="square">
+        <li><a href="https://www.linkedin.com/in/ashley-aleixo-9b1a4b1b3/">LinkedIn</a></li>
+        <li><a href="https://github.com/ashley-aleixo">GitHub</a></li>
+</body>
+</html>
