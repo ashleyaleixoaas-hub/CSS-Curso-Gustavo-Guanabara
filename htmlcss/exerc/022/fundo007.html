@@ -15,14 +15,16 @@
         }
         #conteudo {
            position: absolute;
-           height: 200px;
-           height: 200px;
-           width: 400px;
+           /* a posiçao absoluta tem que estar atuva oara cnseguir centralizar */
+           height: 300px;
+           width: 300px;
            background-color: yellow;
 
-           left: 100px;
-           top: 150px;
-           
+           left: 50%;
+           top: 50%;
+           /* usar porcentagem para facilitar a ocupação */
+           transform: translate(-50%, -50%);     
+           /* o transform é para puxar o elemento para o centro, ou seja, metade da largura e metade da altura */    
         }
     </style>
 </head>
